@@ -1,0 +1,12 @@
+{
+  "name": "taro-dva",
+  "author": "Yeqin Gong <gon@gyeq.in>",
+  "version": "1.0.0",
+  "description": "Use 'dva-core' for Taro.",
+  "main": "index.js",
+  "dependencies": {
+    "dva-core": "^1.4.0"
+  },
+  "repository": "https://github.com/kankungyip/taro-dva.git",
+  "license": "MIT"
+}
